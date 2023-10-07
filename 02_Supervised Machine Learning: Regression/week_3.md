@@ -24,14 +24,14 @@
 ## Q8. Which of the following statements about cross-validation is/are True?
    - Cross-validation is an essential step in hyperparameter tuning.
    - We can manually generate folds by using the KFold function.
-   - ALL THE ABOVE 
+   - ANSWER - `ALL THE ABOVE` 
 
 ## Q9. Which of the following statements about GridSearchCV is/are True?
    - GridSearchCV scans over a dictionary of parameters.
    - GridSearchCV finds the hyperparameter set that has the best out-of-sample score.
    - GridSearchCV retrains on all data with the "best" hyperparameters.
-   - ALL THE ABOVE
+   - ANSWER - `ALL THE ABOVE`
 
 ## Q10. Which of the below functions randomly selects data to be in the train/test folds?
-    - 'KFold' and `StratifiedKFold`
+   - `KFold` and `StratifiedKFold`
 
