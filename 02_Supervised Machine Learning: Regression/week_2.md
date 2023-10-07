@@ -1,4 +1,4 @@
-# WEEK2 QUIZ
+# WEEK 2 QUIZ
 
 ## Q1. The main purpose of splitting your data into a training and test sets is:
    - To avoid overfitting
