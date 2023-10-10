@@ -1,5 +1,5 @@
 # WEEK 2 QUIZ
-## What is a CSV file?
+## Q1. What is a CSV file?
 CSV files are rows of data or values separated by commas.
 
 ## Q2. What are residuals?
