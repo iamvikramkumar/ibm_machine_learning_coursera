@@ -7,13 +7,13 @@
 
 Q2. Which statement about Support Vector Machines is TRUE?
 
-- [x] Support Vector Machine models are non-linear. 
-- [ ] Support Vector Machine models rarely overfit on training data.
+- [ ] Support Vector Machine models are non-linear. 
+- [x] Support Vector Machine models rarely overfit on training data.
 - [ ] Support Vector Machine models can be used for regression but not for classification. 
-- [ ] Support Vector Machine models can be used for classification but not for regression.
+- [ ] Support Vector Machine models can be used for classification but not for regression. 
 
 
-## Q1. (True/False) A large c term will penalize the SVM coefficients more heavily.
+## Q3. (True/False) A large c term will penalize the SVM coefficients more heavily.
 
 - [ ] True
 - [x] False
@@ -37,11 +37,12 @@ Q2. Which statement about Support Vector Machines is TRUE?
 
 
 
+
 ## Q7. The below image shows the decision boundary with a clear margin, such decision boundary belongs to what type machine learning model?
 
 - [ ] Support Version Machine
-- [ ] Super Vector Machine --- wrong
-- [ ] Support Vector Machine
+- [ ] Super Vector Machine 
+- [x] Support Vector Machine
 - [ ] Machine Learning
 
 ## Q8. SVM with kernals can be very slow on large datasets. To speed up SVM training, which methods may you perform to map low dimensional data into high dimensional beforehand?
@@ -52,11 +53,10 @@ Q2. Which statement about Support Vector Machines is TRUE?
 - [ ] Linear SVC
 
 ## Q9. Concerning the Machine Learning workflow what model choice would you pick if you have "Few" features and a "Medium" amount of data?
-- [ ] Add features, or Logistic
-- [ ] Simple, Logistic or LinearSVC wrong 
-- [ ] SVC with RBF
-- [ ] LinearSVC, or Kernal Approximation
-
+- [ ] Add features, or Logistic 
+- [ ] Simple, Logistic or LinearSVC 
+- [x] SVC with RBF
+- [ ] LinearSVC, or Kernal Approximation 
 ## Q10. Select the image that best displays the line that separates the classes.
 
 
