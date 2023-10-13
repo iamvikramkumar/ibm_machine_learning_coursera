@@ -34,8 +34,7 @@ Q2. Which statement about Support Vector Machines is TRUE?
 
 ## Q6. Select the image that displays the line at the optimal point in the phone usage that the data can be split to create a decision boundary.
 
-- [x] ![57d0e9a6-6d29-49d2-a6be-73ddeeb9ff4eimage3](https://github.com/iamvikramkumar/ibm_machine_learning_coursera/assets/89016145/20b978b1-65dd-42df-8523-593a7a73e13a)
-
+- [x] ![57d0e9a6-6d29-49d2-a6be-73ddeeb9ff4eimage4](https://github.com/iamvikramkumar/ibm_machine_learning_coursera/assets/89016145/2701184e-186d-4c45-a88a-e8a43f4c4c10)
 
 
 ## Q7. The below image shows the decision boundary with a clear margin, such decision boundary belongs to what type machine learning model?
