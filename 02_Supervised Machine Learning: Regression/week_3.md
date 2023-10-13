@@ -1,4 +1,5 @@
 # WEEK 3 QUIZ
+<meta content="Study with Quizlet and memorise flashcards containing terms like (True/False) Machine Learning is a subset of Artificial Intelligence, True/False) Deep Learning is a subset of Machine Learning, Machine Learning consists in programming computers to learn from real-time human interactions and others." name="description">
 
 ## Q1. In K-fold cross-validation, how will increasing k affect the variance (across subsamples) of estimated model parameters?
    - Increasing k will usually increase the variance of estimated model parameters.
