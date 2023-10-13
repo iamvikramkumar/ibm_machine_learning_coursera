@@ -2,15 +2,10 @@
 
 ## Q1.Which of the following statements about Downsampling is TRUE?
 
-Downsampling preserves all the original observations. check this
-
-Downsampling is likely to decrease Precision.
+`Downsampling is likely to decrease Precision.`
 
 ## Q2. Which of the following statements about Random Upsampling is TRUE?
-
-Random Upsampling preserves all original observations. wrong
-Random Upsampling will generally lead to a higher F1 score.  check this
-
+`Random Upsampling generates observations that were not part of the original data.`
 
 ## Q3. Which of the following statements about Synthetic Upsampling is TRUE?
 `Synthetic Upsampling generates observations that were not part of the original data.`
