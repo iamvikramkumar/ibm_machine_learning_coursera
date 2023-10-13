@@ -5,7 +5,8 @@
 `Downsampling is likely to decrease Precision.`
 
 ## Q2. Which of the following statements about Random Upsampling is TRUE?
-`Random Upsampling generates observations that were not part of the original data.`
+
+`Random Upsampling results in excessive focus on the more frequently-occurring class. `
 
 ## Q3. Which of the following statements about Synthetic Upsampling is TRUE?
 `Synthetic Upsampling generates observations that were not part of the original data.`
