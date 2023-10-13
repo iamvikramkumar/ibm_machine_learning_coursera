@@ -34,7 +34,7 @@ Q2. Which statement about Support Vector Machines is TRUE?
 
 ## Q6. Select the image that displays the line at the optimal point in the phone usage that the data can be split to create a decision boundary.
 
-
+- [x] ![57d0e9a6-6d29-49d2-a6be-73ddeeb9ff4eimage3](https://github.com/iamvikramkumar/ibm_machine_learning_coursera/assets/89016145/20b978b1-65dd-42df-8523-593a7a73e13a)
 
 
 
@@ -59,10 +59,7 @@ Q2. Which statement about Support Vector Machines is TRUE?
 - [ ] LinearSVC, or Kernal Approximation 
 ## Q10. Select the image that best displays the line that separates the classes.
 
-
-
-
-
+- [x] ![57d0e9a6-6d29-49d2-a6be-73ddeeb9ff4eimage9](https://github.com/iamvikramkumar/ibm_machine_learning_coursera/assets/89016145/69b94d5d-fea2-4a30-9a2d-ab502ec0b55e)
 
 
 
